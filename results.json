@@ -20,6 +20,13 @@
       "score": 2,
       "total": 6,
       "timestamp": 1785297342308
+    },
+    {
+      "fbName": "test",
+      "passed": false,
+      "score": 1,
+      "total": 6,
+      "timestamp": 1785297575760
     }
   ],
   "bonus": [
