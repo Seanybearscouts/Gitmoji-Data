@@ -181,6 +181,13 @@
       "score": 5,
       "total": 6,
       "timestamp": 1785303279771
+    },
+    {
+      "fbName": "Lean",
+      "passed": false,
+      "score": 5,
+      "total": 6,
+      "timestamp": 1785303285879
     }
   ],
   "bonus": [
