@@ -15,5 +15,13 @@
       "timestamp": 1785296597818
     }
   ],
-  "bonus": []
+  "bonus": [
+    {
+      "fbName": "James Cantutan",
+      "passed": false,
+      "score": 0,
+      "total": 7,
+      "timestamp": 1785296820185
+    }
+  ]
 }
